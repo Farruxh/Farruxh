@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning React.js and building my front-end skills.<br>🤝 I’m open to internship opportunities where I can contribute and grow.<br>🌱 I’ve also dived into backend development with Node.js, working towards mastering the full MERN stack.<br>🌱 I’m learning React.js while strengthening my Node.js backend skills.<br>💬 Ask me about my coding journey and web development basics.<br>⚡ Fun fact: I got into coding through computer science, and now I love it! 
+🔭 I’m currently learning React.js and building my front-end skills.<br>🤝 I’m open to internship opportunities where I can contribute and grow.<br>🌱 I’ve also dived into backend development with Node.js, working towards mastering the full MERN stack.<br>💬 Ask me about my coding journey and web development basics.<br>⚡ Fun fact: I got into coding through computer science, and now I love it! 
 
 
 ## 🌐 Socials:
