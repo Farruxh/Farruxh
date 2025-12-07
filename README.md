@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Kubernetes, AWS and building my cloud skills.<br>🤝 I’m open to internship opportunities where I can contribute and grow.<br>🌱 I’ve also dived into backend development with Node.js, working towards mastering the full MERN stack.<br>💬 Ask me about my coding journey and web development basics.<br>⚡ Fun fact: I got into coding through computer science, and now I love it! 
+🔭 I’m currently deepening my understanding of the MERN stack while exploring Kubernetes, AWS, and strengthening my cloud development skills.<br>🤝 I’m open to opportunities where I can contribute and grow.<br>🌱 I’ve also dived into backend development with Node.js, working towards mastering the full MERN stack.<br>💬 Ask me about my coding journey and web development basics.<br>⚡ Fun fact: I got into coding through computer science, and now I love it! 
 
 
 ## 🌐 Socials:
