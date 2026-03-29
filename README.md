@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&letterSpacing=&duration=3000&pause=1000&center=true&width=600&lines=I'm+Farrukh;Aspiring+Full-Stack+Developer;Learning+and+improving+every+day" alt="Typing SVG" /></a>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNuN2ltbzZlbWp1aTV0cWs3YnRxd2E1YWNybGxhazhrdzY3Y3d5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmptZ2dqejF6azN2dHVkOXZpeWtxNDljbTRtbmk4OGFta3RscDd6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </h1>
 
 # 💫 About Me:
