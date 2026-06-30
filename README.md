@@ -4,7 +4,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently deepening my understanding of the MERN stack.<br>🤝 I’m open to opportunities where I can contribute and grow.<br>🌱 I’ve also dived into backend development with Node.js, working towards mastering the full MERN stack.<br>💬 Ask me about my coding journey and web development basics.<br>⚡ Fun fact: I got into coding through computer science, and now I love it! 
+🔭 I’m currently deepening my understanding of the full-stack development.<br>🤝 I’m open to opportunities where I can contribute and grow.<br>🌱 I’ve also dived into backend development with Node.js, FastAPI, working towards mastering the full-stack development.<br>💬 Ask me about my coding journey and web development basics.<br>⚡ Fun fact: I got into coding through computer science, and now I love it! 
 
 
 ## 🌐 Socials:
