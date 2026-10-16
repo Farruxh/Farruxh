@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=3B1E6E&text=Muhammad%20Farrukh&descAlign=0&descAlignY=0&fontAlign=50&textBg=false&animation=fadeIn&fontSize=60&reversal=false&fontAlignY=42&fontColor=FFFFFF" />
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&letterSpacing=&duration=3000&pause=1000&color=3B1E6E&center=true&width=600&lines=Aspiring+Full-Stack+Developer;Learning+and+improving+every+day" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&letterSpacing=&duration=3000&pause=1000&color=3B1E6E&center=true&width=600&lines=Aspiring+Software+Developer;Learning+and+improving+every+day" alt="Typing SVG" /></a>
 <br>
 <br>
          
